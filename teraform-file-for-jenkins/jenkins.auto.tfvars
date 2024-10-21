@@ -1,5 +1,5 @@
-mykey = "cumhurkey"
-ami = "ami-0f409bae3775dc8e5"    # Amazon Linux 2 AMI
+mykey = "mykey"
+ami = "ami-0ddc798b3f1a5117e"    # Amazon Linux 2 AMI
 region = "us-east-1"
 instance_type = "t3a.medium"     #  If ıt dosen't run, do it t3a.large.                          
 jenkins_server_secgr = "microservices-jenkins-server-secgr"
